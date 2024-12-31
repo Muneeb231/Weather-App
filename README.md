@@ -1,2 +1,1 @@
-# Weather-App
-A
+Your combined changes after resolving
